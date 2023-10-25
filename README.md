@@ -180,7 +180,7 @@ endmodule
 ## RTL LOGIC FOR FLIPFLOPS 
 
 ## SR Flipflop:
-![image](https://github.com/SAKTHISWAR/Experiment--05-Implementation-of-flipflops-using-verilog/blob/main/d1.png)
+![image](https://github.com/SAKTHISWAR/Experiment--05-Implementation-of-flipflops-using-verilog/blob/main/d1.jpg)
 
 
 ## JK FLIPFLOP:
