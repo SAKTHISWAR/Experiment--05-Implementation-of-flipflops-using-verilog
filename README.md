@@ -104,9 +104,13 @@ Q(t+1)=T′Q(t)+TQ(t)′
 
 ### Procedure
 1.Open Quartus II and select new project and choose the file location.
+
 2.Module Declaration. Module should have the file name.
+
 3.Declare Inputs and outputs.
+
 4.Use assign declaration and wire to define the functionality of logic circuits.
+
 5.End the program with endmodule. 6.Run the program and choose RTL viewer to get RTL realization.
 
 
@@ -189,7 +193,7 @@ endmodule
 
 ## T FLIPFLOP:
 
-![image](https://github.com/SAKTHISWAR/Experiment--05-Implementation-of-flipflops-using-verilog/blob/main/d3.png)
+![image](https://github.com/SAKTHISWAR/Experiment--05-Implementation-of-flipflops-using-verilog/blob/main/d5.png)
 
 ## D FLIPFLOP:
 
@@ -202,22 +206,25 @@ endmodule
 
 ## SR Flipflop:
 
-![image](https://github.com/SAKTHISWAR/Experiment--05-Implementation-of-flipflops-using-verilog/blob/main/d5.png)
+![image](https://github.com/SAKTHISWAR/Experiment--05-Implementation-of-flipflops-using-verilog/blob/main/d6.png)
+
 
 
 ## JK FLIPFLOP:
 
-![image](https://github.com/SAKTHISWAR/Experiment--05-Implementation-of-flipflops-using-verilog/blob/main/d6.png)
+![image](https://github.com/SAKTHISWAR/Experiment--05-Implementation-of-flipflops-using-verilog/blob/main/d7.png)
+
 
 
 ## T FLIPFLOP:
 
-![image](https://github.com/SAKTHISWAR/Experiment--05-Implementation-of-flipflops-using-verilog/blob/main/d7.png)
+![image](https://github.com/SAKTHISWAR/Experiment--05-Implementation-of-flipflops-using-verilog/blob/main/d9.png)
 
 
 ## D FLIPFLOP:
 
 ![image](https://github.com/SAKTHISWAR/Experiment--05-Implementation-of-flipflops-using-verilog/blob/main/d8.png)
+
 
 ### RESULTS:
 Successfully implemented all the flipflops using verilog and validating their functionality using their functional tables.
